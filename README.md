@@ -2,9 +2,12 @@
 
 
 - 🔭 I’m currently working on expanding my knowledge about Cyber Security
-- 🌱 I’m currently learning Computer Forensics and Malaware analysis
+- 🌱 I’m currently learning: cloud
 - ⚡ Fun fact: All my friends are thinking that I'm a hacker, where I'm not.
-- 🤔 I’m looking for help with coding
+- 🤔 I’m looking for help with coding and malware
+
+
+## What is this profile about ? ##
 
 ### PRESENT ###
 Security Analyst with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
