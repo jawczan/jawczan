@@ -9,15 +9,23 @@
 
 ## What is this profile about ? ##
 
+This profile is about me. It is not perfect, because I'm not perfect.
+This profile is helping me and maybe will help you.
+I'm keeping here helpful information, solutions, scripts that are helping me in my day-to-day work.
+Additionally, some materials are here for out-of-work hobbies.
+This profile is not completed and never will be... it will be updated from time to time when necessary.
+
+## Whois / whoami ##
+
 ### PRESENT ###
 Security Analyst with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
 
 ### FUTURE (near) ###
 Master of static and dynamic malware analysis. Certified by multiple organisations in various areas of Cyber Security.
-Cyber security team lead and trainer or the teams inside the company that pays my bills... Next accepting manager.
+Cyber security team lead and trainer of the teams inside the company that pays my bills... and future manager.
 
 ### FUTURE (not so close) #
-I see myself as a CISO. Having exceptional knowledge about every aspect of cyber security. Presenter on the top of Cyber Security events.
+I see myself as a CISO. Having exceptional knowledge in every aspect of cyber security. Presenter on the top of Cyber Security events.
 Having long life.
 
 
