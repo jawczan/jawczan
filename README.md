@@ -18,7 +18,7 @@ This profile is not completed and never will be... it will be updated from time 
 ## Whois / whoami ##
 
 ### PRESENT ###
-Security Analyst with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
+Security Analyst and Incident Responder with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
 
 ### FUTURE (near) ###
 Master of static and dynamic malware analysis. Certified by multiple organisations in various areas of Cyber Security.
