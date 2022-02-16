@@ -22,7 +22,7 @@ Security Analyst and Incident Responder with a passion for malware analysis and 
 
 ### FUTURE (near) ###
 Master of static and dynamic malware analysis. Certified by multiple organisations in various areas of Cyber Security.
-Cyber security team lead and trainer of the teams inside the company that pays my bills... and future manager.
+Cyber security team lead and trainer of the teams inside the company that pays my bills...
 
 ### FUTURE (not so close) #
 I see myself as a CISO. Having exceptional knowledge in every aspect of cyber security. Presenter on the top of Cyber Security events.
