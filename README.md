@@ -21,7 +21,7 @@ This profile is not completed and never will be... it will be updated from time 
 Security Analyst and Incident Responder with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
 
 ### FUTURE (near) ###
-Master of static and dynamic malware analysis. Certified by multiple organisations in various areas of Cyber Security.
+Master of static and dynamic malware analysis. Owner of multiple certificates in various areas of Cyber Security.
 Cyber security team lead and trainer of the teams inside the company that pays my bills...
 
 ### FUTURE (not so close) #
