@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on expanding my knowledge about Cyber Security
-- 🌱 I’m currently learning: cloud
+- 🌱 I’m currently learning: cloud in depth
 - ⚡ Fun fact: All my friends are thinking that I'm a hacker, where I'm not.
-- 🤔 I’m looking for help with coding and malware
+- 🤔 I’m looking for help with coding
 
 
 ## What is this profile about ? ##
@@ -18,11 +18,11 @@ This profile is not completed and never will be... it will be updated from time 
 ## Whois / whoami ##
 
 ### PRESENT ###
-Security Analyst and Incident Responder with a passion for malware analysis and computer forensics. I'm still deeping that knowledge, because to progress, you need to learn every day.
+Senior Incident Responder. CTI and OSINT passionate. Providing support to the other team and leadership in the technical aspects of Cyber Security. Help planning projects. 
+I knot that to stay on the top you need to learn every day. Exploring cloud.
 
 ### FUTURE (near) ###
-Master of static and dynamic malware analysis. Owner of multiple certificates in various areas of Cyber Security.
-Cyber security team lead and trainer of the teams inside the company that pays my bills...
+Cyber Security expert with the key focus on cloud. A person who is listen by Executive level staff.
 
 ### FUTURE (not so close) #
 I see myself as a CISO. Having exceptional knowledge in every aspect of cyber security. Presenter on the top of Cyber Security events.
@@ -35,7 +35,7 @@ Having long life.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on expanding my knowledge about Cyber Security
-- 🌱 I’m currently learning Computer Forensics and Malaware analysis
+- 🌱 I’m currently deeping my skills in Cloud security.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
